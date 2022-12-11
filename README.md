@@ -1,1 +1,1 @@
-echo "# lenslight_tr_test" >> README.md
+# lenslight_tr_test
